@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8b6d434-3d55-47e1-9bc9-5795ccd5a6e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 2/Opdracht 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 2/Opdracht 4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2/Opdracht 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2/Opdracht 8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2/Opdracht 9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/Opdracht 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 2/Opdracht 4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HdwjsNm1LAlf5JTMMReTRMoyWz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -58,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668628406298</updated>
-      <workItem from="1668628408741" duration="983000" />
+      <workItem from="1668628408741" duration="1288000" />
     </task>
     <servers />
   </component>
