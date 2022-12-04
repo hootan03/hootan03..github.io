@@ -5,25 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee6acbde-aa55-4b65-9284-72e446588bcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo 1/flaot2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo 1/float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra Opdrachten/Hootan Arkan_Flex Box.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Homepage/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Homepage/img/Calm down.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Homepage/img/Fast-Furious.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Homepage/img/Little mix.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Nature blog/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Nature blog/img/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Nature blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 3/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 4/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/Hootan Arkan - verslag CSS deel 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/cocktails.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/cocktailbar/img/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/css deel 4 voorbeelden positionering/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/css deel 4 voorbeelden positionering/voorbeeld1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/css deel 4 voorbeelden positionering/voorbeeld2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/css deel 4 voorbeelden positionering/voorbeeld3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/css deel 4 voorbeelden positionering/voorbeeld4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/demo absolute positionering/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/demo absolute positionering/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/demo absolute positionering/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/loremipsum/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/loremipsum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/lorempisum extra space/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/lorempisum extra space/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/positionerenelementen/Demo1/float1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/positionerenelementen/Demo1/float3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/positionerenelementen/Demo1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/positionerenelementen/Demo2/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/positionerenelementen/Demo2/float2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 8/positionerenelementen/Demo2/img/viveslogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/airbus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/assignment airbus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/A380Grond.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/Britischairways.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/abramovich.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/airbus_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/bgsky1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/bgsky2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/bgsky3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/binnen1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/binnen2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/binnen3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/cockpit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/indelucht.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/indelucht2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/pagebackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/pasagiers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/qantas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/tek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/tekening.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/tekklein.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/fotos/transport.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/opdracht airbus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/positioneren_image_begin/Images/flight1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/positioneren_image_begin/Images/flight2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/positioneren_image_begin/Images/flight3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/positioneren_image_begin/Images/flight4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/positioneren_image_begin/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/positioneren_image_begin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo 1/flaot2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo 1/float.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
     </list>
@@ -35,6 +81,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
       </list>
@@ -69,6 +116,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 8\positionerenelementen\Demo2" />
+      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 8\positionerenelementen\Demo1" />
+      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 8" />
+      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 8\loremipsum\lorempisum extra space\CSS" />
+      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 8\cocktailbar" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,7 +142,12 @@
       <workItem from="1669153370903" duration="9000" />
       <workItem from="1669155372914" duration="185000" />
       <workItem from="1669205003913" duration="374000" />
-      <workItem from="1669280347385" duration="4603000" />
+      <workItem from="1669280347385" duration="8328000" />
+      <workItem from="1669414574335" duration="594000" />
+      <workItem from="1669889736920" duration="49000" />
+      <workItem from="1669890036634" duration="5294000" />
+      <workItem from="1669895906973" duration="20000" />
+      <workItem from="1670155149739" duration="2915000" />
     </task>
     <servers />
   </component>
