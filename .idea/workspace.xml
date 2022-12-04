@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee6acbde-aa55-4b65-9284-72e446588bcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 9/demonstration pitfalls of inline-block element/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 9/demonstration pitfalls of inline-block element/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 9/positioneren/Relative-absolute position/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/Hootan Arkan-Verslag CSS deel 5.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 8/positionerenelementen/Demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 8/positionerenelementen/Demo1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 9/opdracht airbus/Style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/Style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 9/opdracht airbus/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/airbus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <workItem from="1669890036634" duration="5294000" />
       <workItem from="1669895906973" duration="20000" />
       <workItem from="1670155149739" duration="2915000" />
-      <workItem from="1670158211939" duration="911000" />
+      <workItem from="1670158211939" duration="1560000" />
     </task>
     <servers />
   </component>
