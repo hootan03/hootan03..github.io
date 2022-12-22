@@ -5,12 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee6acbde-aa55-4b65-9284-72e446588bcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 9/Hootan Arkan-Verslag CSS deel 5.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 10/mondriaan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 10/mondriaan/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Demo/Beginsituatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Demo/Beginsituatie/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Demo/Grid/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/.idea/Grid Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/css/exercise1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/css/exercise2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/css/exercise3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/css/exercise4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/css/exercise5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/css/exercise6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/exercise1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/exercise2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/exercise3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/exercise4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/exercise5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/exercise6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 11/Grid Exercises/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 9/opdracht airbus/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/airbus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -57,11 +77,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 11\Demo" />
+      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 11\Demo\Beginsituatie" />
       <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 9" />
       <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 9\positioneren" />
       <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 8\positionerenelementen\Demo2" />
-      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 8\positionerenelementen\Demo1" />
-      <recent name="C:\Users\hoota\Documents\vives\GitHub\hootan03.github.io\Labo 8" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,6 +108,8 @@
       <workItem from="1669895906973" duration="20000" />
       <workItem from="1670155149739" duration="2915000" />
       <workItem from="1670158211939" duration="1560000" />
+      <workItem from="1671094987471" duration="594000" />
+      <workItem from="1671099204009" duration="5916000" />
     </task>
     <servers />
   </component>
