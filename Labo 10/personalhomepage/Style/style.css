@@ -61,11 +61,11 @@ h3 {
 }
 .datagrid table thead th {
     background: -webkit-gradient(
-        linear,
-        left top,
-        left bottom,
-        color-stop(0.05, #652299),
-        color-stop(1, #4d1a75)
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.05, #652299),
+            color-stop(1, #4d1a75)
     );
     background: -moz-linear-gradient(center top, #652299 5%, #4d1a75 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#652299', endColorstr='#4D1A75');
