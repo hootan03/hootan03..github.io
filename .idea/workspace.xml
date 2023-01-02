@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee6acbde-aa55-4b65-9284-72e446588bcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 10/personalhomepage/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/Demo/calc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/Demo/template-area/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/Opdracht 1/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/Opdracht 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/Opdracht 2/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/Opdracht 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/Opdracht 3/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/Opdracht 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 10/mondriaan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 10/mondriaan/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 10/personalhomepage/img/gorillaz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 10/personalhomepage/img/hoofd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 10/personalhomepage/img/kendrick.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 10/personalhomepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 10/personalhomepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 10/personalhomepage/style/personalhomepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extra Opdrachten/Hootan Arkan_Flex Box.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Z-extra Opdrachten/Hootan Arkan_Flex Box.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z-extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Z-extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z-extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Z-extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Z-extra Opdrachten/Flex Box/frontendmentorprofilecardBeginSituatie" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -105,7 +93,7 @@
       <workItem from="1671099204009" duration="5916000" />
       <workItem from="1671701074429" duration="221000" />
       <workItem from="1671703835686" duration="4515000" />
-      <workItem from="1672661028930" duration="816000" />
+      <workItem from="1672661028930" duration="2353000" />
     </task>
     <servers />
   </component>
