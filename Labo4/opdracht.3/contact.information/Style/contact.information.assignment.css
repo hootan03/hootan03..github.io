@@ -1,0 +1,19 @@
+.hoofd {
+    float: right;
+    margin-right: 1vw;
+    width: 20vw;
+    height: auto;
+}
+
+.gorillaz {
+    width: 10%;
+    height: auto;
+}
+
+.kendrick {
+    width: 5%;
+    height: auto;
+}
+th, td {
+    border: 1px solid black;
+}
